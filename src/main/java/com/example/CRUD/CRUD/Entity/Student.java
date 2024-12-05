@@ -13,8 +13,13 @@ public class Student {
     private String name;
     private String city;
     private int fee;
+
     private long ;
 
+    private int phone_no;
+
+
+    
     public Long getId() {
         return id;
     }
