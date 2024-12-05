@@ -13,6 +13,8 @@ public class Student {
     private String name;
     private String city;
     private int fee;
+    boolean saved = false;
+    boolean isupdated= true;
 
     private long ;
 
